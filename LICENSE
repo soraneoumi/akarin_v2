@@ -1,0 +1,12 @@
+Copyright (c) 2026 新しい世界. All rights reserved.
+
+This repository is published for reference only.
+No permission is granted to copy, redistribute, modify, or publish this
+software or its documentation, except as permitted by applicable law.
+
+Portions of this software are derived from ShadowsocksR and Shadowsocks,
+which are licensed under the Apache License, Version 2.0, and those portions
+remain under that license. They include the XorShift128+ generator in
+src/wire.rs and the client queue and per-user client registry in
+src/server/state.rs. A copy of the Apache License 2.0 is included in
+LICENSE.Apache-2.0.txt as required by its terms.
